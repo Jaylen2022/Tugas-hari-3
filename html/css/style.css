@@ -1,0 +1,90 @@
+body { 
+    background-color: cyan; 
+}
+
+.nama {
+    font-family: 'Times New Roman', Times, serif;
+    color: tomato;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    color: blue;
+    margin: 20px;
+}
+
+.box0 {
+    width: 200px;
+    height: 200px;
+    background: red ;
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+    color: #fff;
+}
+
+.box1 {
+    width: 550px;
+    height: 200px;
+    background: red ;
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+    color: #fff;
+}
+
+.box2 {
+    width: 500px;
+    height: 200px;
+    background: red ;
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+    color: #fff;
+}
+
+.box3 {
+    width: 100px;
+    height: 200px;
+    background: red ;
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+    color: #fff;
+}
+
+.boxs {
+    display: flex;
+}
+
+.logo {
+    display: flex;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+
+}
+
+.teks {
+    font-style: italic;
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+    
+}
+
+.box {
+    display: flex;
+}
+
+.teks1 {
+    font-style: italic;
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
